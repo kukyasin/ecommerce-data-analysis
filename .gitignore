@@ -41,12 +41,12 @@ env/
 .ipynb_checkpoints
 *.ipynb
 
-# Data
-*.csv
+# Data (allow sample data for demo)
+# *.csv  (commented to allow sample data)
 *.xlsx
 *.xls
 
-# Output
-*.png
+# Output (allow dashboard visualizations)
+# *.png  (commented to allow dashboard images)
 output/
 results/
